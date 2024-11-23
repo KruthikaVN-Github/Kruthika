@@ -17,7 +17,7 @@ I am an aspiring Data Analyst/Data Scientist passionate about turning data into 
 - Building financial dashboards using Tableau  
 
 ### 💻 Projects
-- **[👨‍💻 All of my projects are available at](https://github.com/KruthikaVN-Github?tab=repositories)
+- **[👨‍💻 All of my projects are available here](https://github.com/KruthikaVN-Github?tab=repositories)
 
 ### 📫 Contact Me
 - LinkedIn: [Kruthika V N](https://www.linkedin.com/in/kruthika-vn-127652128/)  
